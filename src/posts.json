@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Начало",
+    "description": "Я пытался раскатать на Vite + TS",
+    "tags": []
+  },
+  {
+    "id": 1,
+    "name": "Затем",
+    "description": "UI-либа",
+    "tags": []
+  }
+]
