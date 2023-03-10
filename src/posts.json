@@ -2,13 +2,69 @@
   {
     "id": 0,
     "name": "Начало",
-    "description": "Я пытался раскатать на Vite + TS",
-    "tags": []
+    "description": "Я пытался сделать на Vite + TS",
+    "tags": [
+      {
+        "id": 0,
+        "post_id": 0,
+        "name": "#начало"
+      },
+      {
+        "id": 1,
+        "post_id": 0,
+        "name": "#попытка"
+      }
+    ]
   },
   {
     "id": 1,
     "name": "Затем",
-    "description": "UI-либа",
-    "tags": []
+    "description": "UI-либа отказала из-за vue 3",
+    "tags": [
+      {
+        "id": 0,
+        "post_id": 0,
+        "name": "#затем"
+      },
+      {
+        "id": 1,
+        "post_id": 0,
+        "name": "#проблема"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Затем",
+    "description": "Искал решение",
+    "tags": [
+      {
+        "id": 0,
+        "post_id": 0,
+        "name": "#затем"
+      },
+      {
+        "id": 1,
+        "post_id": 0,
+        "name": "#проблема"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Наконец",
+    "description": "Пришел к поддерживаемым CLI + vue 2",
+    "tags": [
+      {
+        "id": 0,
+        "post_id": 0,
+        "name": "#наконец"
+      },
+      {
+        "id": 1,
+        "post_id": 0,
+        "name": "#решение"
+      }
+    ]
   }
 ]
